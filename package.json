@@ -1,7 +1,7 @@
 {
   "name": "mediainfos",
   "description": "Wrapper which parse simple mediainfo output (not xml).",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "philou2024",
     "email": "philippe@devisme.com"
